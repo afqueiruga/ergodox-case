@@ -1,0 +1,1 @@
+This is a case for the ergodox. It requires OpenSCAD and SolidPython to render, and builds from the DXF file for the circuit board located in board. The output files are in the stl folder. The files are in four parts to fit on a smaller printer bed that need to be glued together or something. You can change the cutout pattern in the python file. 
